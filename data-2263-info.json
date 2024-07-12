@@ -1,0 +1,512 @@
+{
+  "Id": 2263,
+  "IdentificationNumber": "7719028495-MoscowEducationalInstitutions",
+  "CategoryId": 114,
+  "CategoryCaption": "Образование",
+  "DepartmentId": 1001,
+  "DepartmentCaption": "Департамент образования и науки города Москвы",
+  "Caption": "Образовательные учреждения города Москвы",
+  "Description": "Набор данных содержит информацию об образовательных организациях города Москвы: адреса, контактные телефоны, местоположение на карте, адреса интернет-сайтов учреждений, а также информацию о доступности зданий для лиц с ограниченными возможностями. В соответствии с Федеральным Законом от 29.12.2012 № 273-ФЗ «Об образовании в Российской Федерации» (Закон) изменилась классификация образовательных организаций. Ранее образовательные организации классифицировались по «типам» и «видам» в зависимости от возраста обучающихся, в настоящее время согласно п.2 ст.10 Закона образование подразделяется на общее, профессиональное, дополнительное и профессиональное обучение, обеспечивающие возможность реализации права на образование в течение всей жизни (непрерывное образование). Современные московские образовательные организации, как правило, реализуют несколько уровней общего образования (п.4 ст.10 Закона) – дошкольное, начальное общее, основное общее, среднее общее. Они также могут предлагать среднее и высшее профессиональное образование (п.5 ст.10 Закона) и четкой привязки образовательных организаций к прежней классификации (Детский сад → Средняя школа → Учреждение среднего профессионального образования → Высшее учебное заведение) уже нет. У больших школ появились новые возможности - образовательные организации получили ресурс для повышения доступности реализуемых ими образовательных программ для московских семей. В зависимости от предпочтений семей школа предлагает дополнительное образование: организует работу кружков, секций, курсов различной направленности для детей и взрослых в любом из своих зданий. Именно поэтому местом предоставления той или иной образовательной услуги должны считаться все здания, входящие в состав образовательной организации. Места оказания услуг общего и профессионального образования, а также – место работы конкретного кружка вы можете уточнить у администрации или на официальном сайте образовательной организации.",
+  "FullDescription": "<p style=\"text-align:justify\"><span style=\"color:black\"><span style=\"font-family:tahoma,sans-serif\"><span style=\"font-size:9.0pt\">Набор данных содержит информацию об образовательных организациях города Москвы: адреса, контактные телефоны, местоположение на карте, адреса интернет-сайтов учреждений, а также информацию о доступности зданий для лиц с ограниченными возможностями.</span></span></span></p>\n\n<p style=\"text-align:justify\"><span style=\"color:black\"><span style=\"font-family:tahoma,sans-serif\"><span style=\"font-size:9.0pt\">В соответствии с Федеральным Законом от 29.12.2012 № 273-ФЗ &laquo;Об образовании в Российской Федерации&raquo; (Закон) изменилась классификация образовательных организаций. Ранее образовательные организации классифицировались по &laquo;типам&raquo; и &laquo;видам&raquo; в зависимости от возраста обучающихся, в настоящее время согласно п.2 ст.10 Закона образование подразделяется на общее, профессиональное, дополнительное и профессиональное обучение, обеспечивающие возможность реализации права на образование в течение всей жизни (непрерывное образование).</span></span></span></p>\n\n<p style=\"text-align:justify\"><span style=\"color:black\"><span style=\"font-family:tahoma,sans-serif\"><span style=\"font-size:9.0pt\">Современные московские образовательные организации, как правило, реализуют несколько уровней общего образования (п.4&nbsp;ст.10&nbsp;Закона) &ndash; дошкольное, начальное общее, основное общее, среднее общее. Они также могут предлагать среднее и высшее профессиональное образование (п.5 ст.10 Закона) и четкой привязки образовательных организаций к прежней классификации (Детский сад </span></span></span><span style=\"color:black\"><span style=\"font-family:arial,sans-serif\"><span style=\"font-size:9.0pt\">&rarr;</span></span></span><span style=\"color:black\"><span style=\"font-family:tahoma,sans-serif\"><span style=\"font-size:9.0pt\"> Средняя школа </span></span></span><span style=\"color:black\"><span style=\"font-family:arial,sans-serif\"><span style=\"font-size:9.0pt\">&rarr;</span></span></span><span style=\"color:black\"><span style=\"font-family:tahoma,sans-serif\"><span style=\"font-size:9.0pt\"> Учреждение среднего профессионального образования </span></span></span><span style=\"color:black\"><span style=\"font-family:arial,sans-serif\"><span style=\"font-size:9.0pt\">&rarr;</span></span></span><span style=\"color:black\"><span style=\"font-family:tahoma,sans-serif\"><span style=\"font-size:9.0pt\"> Высшее учебное заведение) уже нет. </span></span></span></p>\n\n<p style=\"text-align:justify\"><span style=\"color:black\"><span style=\"font-family:tahoma,sans-serif\"><span style=\"font-size:9.0pt\">У больших школ появились новые возможности - образовательные организации получили ресурс для повышения доступности реализуемых ими образовательных программ для московских семей. В зависимости от предпочтений семей школа предлагает дополнительное образование: организует работу кружков, секций, курсов различной направленности для детей и взрослых в любом из своих зданий.</span></span></span></p>\n\n<p style=\"text-align:justify\"><span style=\"color:black\"><span style=\"font-family:tahoma,sans-serif\"><span style=\"font-size:9.0pt\">Именно поэтому местом предоставления той или иной образовательной услуги должны считаться все здания, входящие в состав образовательной организации. Места оказания услуг общего и профессионального образования, а также &ndash; место работы конкретного кружка вы можете уточнить у администрации или на официальном сайте образовательной организации.</span></span></span></p>\n",
+  "Keywords": "образование, образования, школа, школы, детский сад, СОШ, колледж, колледжи, техникум, ДОНМ, Департамент образования, сведения",
+  "ContainsGeodata": true,
+  "VersionNumber": "5.76",
+  "VersionDate": "2024-07-08 12:57:16",
+  "ItemsCount": 578,
+  "Columns": [
+    {
+      "Name": "OrgType",
+      "Caption": "Тип образовательной организации",
+      "Visible": true,
+      "Type": "DICTIONARY",
+      "SubColumns": null
+    },
+    {
+      "Name": "ReorganizationStatus",
+      "Caption": "Статус организации",
+      "Visible": false,
+      "Type": "DICTIONARY",
+      "SubColumns": null
+    },
+    {
+      "Name": "IDEKIS",
+      "Caption": "Код ЕКИС",
+      "Visible": false,
+      "Type": "INTEGER",
+      "SubColumns": null
+    },
+    {
+      "Name": "FullName",
+      "Caption": "Полное наименование",
+      "Visible": true,
+      "Type": "STRING",
+      "SubColumns": null
+    },
+    {
+      "Name": "ShortName",
+      "Caption": "Сокращённое наименование",
+      "Visible": false,
+      "Type": "STRING",
+      "SubColumns": null
+    },
+    {
+      "Name": "Number",
+      "Caption": "Номер",
+      "Visible": false,
+      "Type": "INTEGER",
+      "SubColumns": null
+    },
+    {
+      "Name": "INN",
+      "Caption": "ИНН",
+      "Visible": true,
+      "Type": "STRING",
+      "SubColumns": null
+    },
+    {
+      "Name": "KPP",
+      "Caption": "КПП",
+      "Visible": true,
+      "Type": "STRING",
+      "SubColumns": null
+    },
+    {
+      "Name": "OGRN",
+      "Caption": "ОГРН",
+      "Visible": true,
+      "Type": "STRING",
+      "SubColumns": null
+    },
+    {
+      "Name": "LegalOrganization",
+      "Caption": "Организационно-правовая форма",
+      "Visible": true,
+      "Type": "DICTIONARY",
+      "SubColumns": null
+    },
+    {
+      "Name": "Subordination",
+      "Caption": "Подчинение",
+      "Visible": false,
+      "Type": "DICTIONARY",
+      "SubColumns": null
+    },
+    {
+      "Name": "ChiefName",
+      "Caption": "ФИО руководителя",
+      "Visible": true,
+      "Type": "STRING",
+      "SubColumns": null
+    },
+    {
+      "Name": "LegalAddress",
+      "Caption": "Юридический адрес",
+      "Visible": true,
+      "Type": "STRING",
+      "SubColumns": null
+    },
+    {
+      "Name": "InstitutionsAddresses",
+      "Caption": "Адреса учреждения",
+      "Visible": false,
+      "Type": "CATALOG",
+      "SubColumns": [
+        {
+          "Name": "FullName",
+          "Caption": "Полное официальное наименование",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        },
+        {
+          "Name": "AdmArea",
+          "Caption": "Административный округ",
+          "Visible": true,
+          "Type": "DICTIONARY",
+          "SubColumns": null
+        },
+        {
+          "Name": "District",
+          "Caption": "Район",
+          "Visible": true,
+          "Type": "DICTIONARY",
+          "SubColumns": null
+        },
+        {
+          "Name": "Address",
+          "Caption": "Адрес",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        },
+        {
+          "Name": "ChiefName",
+          "Caption": "ФИО руководителя",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        },
+        {
+          "Name": "ChiefPosition",
+          "Caption": "Должность руководителя",
+          "Visible": true,
+          "Type": "DICTIONARY",
+          "SubColumns": null
+        },
+        {
+          "Name": "PublicPhone",
+          "Caption": "Контактный телефон",
+          "Visible": false,
+          "Type": "CATALOG",
+          "SubColumns": [
+            {
+              "Name": "PublicPhone",
+              "Caption": "Контактный телефон",
+              "Visible": false,
+              "Type": "STRING",
+              "SubColumns": null
+            }
+          ]
+        },
+        {
+          "Name": "WebSite",
+          "Caption": "Сайт",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        },
+        {
+          "Name": "Availability",
+          "Caption": "Доступность",
+          "Visible": false,
+          "Type": "CATALOG",
+          "SubColumns": [
+            {
+              "Name": "available_k",
+              "Caption": "Доступность объекта (инвалиды-колясочники)",
+              "Visible": true,
+              "Type": "DICTIONARY",
+              "SubColumns": null
+            },
+            {
+              "Name": "available_o",
+              "Caption": "Доступность объекта (инвалиды-опорники)",
+              "Visible": true,
+              "Type": "DICTIONARY",
+              "SubColumns": null
+            },
+            {
+              "Name": "available_z",
+              "Caption": "Доступность объекта (инвалиды по зрению)",
+              "Visible": true,
+              "Type": "DICTIONARY",
+              "SubColumns": null
+            },
+            {
+              "Name": "available_s",
+              "Caption": "Доступность объекта (инвалиды по слуху)",
+              "Visible": true,
+              "Type": "DICTIONARY",
+              "SubColumns": null
+            },
+            {
+              "Name": "available_element",
+              "Caption": "Элементы доступности",
+              "Visible": false,
+              "Type": "CATALOG",
+              "SubColumns": [
+                {
+                  "Name": "Group_mgn",
+                  "Caption": "Группа",
+                  "Visible": true,
+                  "Type": "DICTIONARY",
+                  "SubColumns": null
+                },
+                {
+                  "Name": "Area_mgn",
+                  "Caption": "Зона учреждения",
+                  "Visible": true,
+                  "Type": "DICTIONARY",
+                  "SubColumns": null
+                },
+                {
+                  "Name": "Element_mgn",
+                  "Caption": "Элемент инфраструктуры",
+                  "Visible": true,
+                  "Type": "DICTIONARY",
+                  "SubColumns": null
+                },
+                {
+                  "Name": "available_degree",
+                  "Caption": "Степень доступности",
+                  "Visible": true,
+                  "Type": "DICTIONARY",
+                  "SubColumns": null
+                },
+                {
+                  "Name": "available_index",
+                  "Caption": "Показатель доступности",
+                  "Visible": true,
+                  "Type": "DICTIONARY",
+                  "SubColumns": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "PublicPhone",
+      "Caption": "Контактный телефон",
+      "Visible": false,
+      "Type": "CATALOG",
+      "SubColumns": [
+        {
+          "Name": "PublicPhone",
+          "Caption": "Контактный телефон",
+          "Visible": false,
+          "Type": "STRING",
+          "SubColumns": null
+        }
+      ]
+    },
+    {
+      "Name": "Email",
+      "Caption": "Адрес электронной почты",
+      "Visible": true,
+      "Type": "CATALOG",
+      "SubColumns": [
+        {
+          "Name": "Email",
+          "Caption": "Адрес электронной почты",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        }
+      ]
+    },
+    {
+      "Name": "WebSite",
+      "Caption": "Сайт",
+      "Visible": true,
+      "Type": "STRING",
+      "SubColumns": null
+    },
+    {
+      "Name": "EducationPrograms",
+      "Caption": "Образовательные программы",
+      "Visible": true,
+      "Type": "STRING",
+      "SubColumns": null
+    },
+    {
+      "Name": "EducationalServices",
+      "Caption": "Образовательные услуги",
+      "Visible": false,
+      "Type": "CATALOG",
+      "SubColumns": [
+        {
+          "Name": "FullTimeEdu",
+          "Caption": "Очная форма обучения",
+          "Visible": true,
+          "Type": "FLAG",
+          "SubColumns": null
+        },
+        {
+          "Name": "PartTimeEdu",
+          "Caption": "Заочная форма обучения",
+          "Visible": true,
+          "Type": "FLAG",
+          "SubColumns": null
+        },
+        {
+          "Name": "FullPartTimeEdu",
+          "Caption": "Очно-заочная форма обучения",
+          "Visible": true,
+          "Type": "FLAG",
+          "SubColumns": null
+        },
+        {
+          "Name": "ExternalEdu",
+          "Caption": "Самообразование",
+          "Visible": true,
+          "Type": "FLAG",
+          "SubColumns": null
+        },
+        {
+          "Name": "InFamilyEdu",
+          "Caption": "Семейное образование",
+          "Visible": true,
+          "Type": "FLAG",
+          "SubColumns": null
+        },
+        {
+          "Name": "HasPreschoolEdu",
+          "Caption": "Реализация дошкольной программы",
+          "Visible": true,
+          "Type": "FLAG",
+          "SubColumns": null
+        }
+      ]
+    },
+    {
+      "Name": "LicensingAndAccreditation",
+      "Caption": "Лицензирование и аккредитация",
+      "Visible": false,
+      "Type": "CATALOG",
+      "SubColumns": [
+        {
+          "Name": "LicenseAvailability",
+          "Caption": "Признак наличия лицензии у ОУ",
+          "Visible": true,
+          "Type": "FLAG",
+          "SubColumns": null
+        },
+        {
+          "Name": "LicenseSeries",
+          "Caption": "Серия бланка лицензии",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        },
+        {
+          "Name": "LicenseNumber",
+          "Caption": "Номер бланка лицензии",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        },
+        {
+          "Name": "LicenseExpires",
+          "Caption": "Дата окончания срока действия лицензии",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        },
+        {
+          "Name": "AccreditationAvailability",
+          "Caption": "Признак наличия аккредитационного свидетельства у ОУ",
+          "Visible": true,
+          "Type": "FLAG",
+          "SubColumns": null
+        },
+        {
+          "Name": "AccreditationSeries",
+          "Caption": "Серия бланка аккредитационного свидетельства",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        },
+        {
+          "Name": "AccreditationNumber",
+          "Caption": "Номер бланка аккредитационного свидетельства",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        },
+        {
+          "Name": "AccreditationExpires",
+          "Caption": "Дата окончания срока действия аккредитационного свидетельства",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        }
+      ]
+    },
+    {
+      "Name": "SupplementaryClassesAndGroups",
+      "Caption": "Кружки и секции",
+      "Visible": false,
+      "Type": "CATALOG",
+      "SubColumns": [
+        {
+          "Name": "Direction",
+          "Caption": "Направленность",
+          "Visible": true,
+          "Type": "DICTIONARY",
+          "SubColumns": null
+        },
+        {
+          "Name": "ActivityProfile",
+          "Caption": "Профиль деятельности\t",
+          "Visible": true,
+          "Type": "DICTIONARY",
+          "SubColumns": null
+        },
+        {
+          "Name": "ActivityType",
+          "Caption": "Вид деятельности\t",
+          "Visible": true,
+          "Type": "DICTIONARY",
+          "SubColumns": null
+        },
+        {
+          "Name": "GroupCount",
+          "Caption": "Количество групп",
+          "Visible": true,
+          "Type": "INTEGER",
+          "SubColumns": null
+        },
+        {
+          "Name": "FreebieGroupCount",
+          "Caption": "Количество бесплатных групп",
+          "Visible": true,
+          "Type": "INTEGER",
+          "SubColumns": null
+        }
+      ]
+    },
+    {
+      "Name": "NumberofStudentsInOO",
+      "Caption": "Количество обучающихся по ОО",
+      "Visible": false,
+      "Type": "CATALOG",
+      "SubColumns": [
+        {
+          "Name": "PupilsQuantity",
+          "Caption": "Количество обучающихся",
+          "Visible": true,
+          "Type": "INTEGER",
+          "SubColumns": null
+        },
+        {
+          "Name": "Date",
+          "Caption": "Дата актуальности",
+          "Visible": true,
+          "Type": "STRING",
+          "SubColumns": null
+        }
+      ]
+    },
+    {
+      "Name": "TheContingentOfPreschoolersStudyingOO",
+      "Caption": "Контингент обучающихся дошкольников по ОО",
+      "Visible": false,
+      "Type": "CATALOG",
+      "SubColumns": [
+        {
+          "Name": "PupilsQuantity",
+          "Caption": "Количество обучающихся",
+          "Visible": true,
+          "Type": "INTEGER",
+          "SubColumns": null
+        },
+        {
+          "Name": "Date",
+          "Caption": "Дата актуальности",
+          "Visible": true,
+          "Type": "DATE",
+          "SubColumns": null
+        }
+      ]
+    },
+    {
+      "Name": "global_id",
+      "Caption": "global_id",
+      "Visible": false,
+      "Type": "NUMBER",
+      "SubColumns": null
+    }
+  ]
+}

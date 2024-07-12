@@ -1,25 +1,45 @@
-from tokens import DATA_MOS_RU
-import requests
+import os
+import gzip
 import json
+import shutil
+import requests
+from tokens import DATA_MOS_RU
 
+datasets = ["2072", "2263", "2457"]
+step = 1000
 
 url = "https://apidata.mos.ru/v1"
-
 folder = "/datasets/"
-dataset = "2263"
-file = "/rows" # действие
-
 params = {
     "api_key": DATA_MOS_RU,
-    "top": "1000000",
+    "$skip": 0
 }
 
-# filename = "datasets.json"
-# filename = "data-2072-count.json" # ЕГЭ
-filename = "data-2263.json" # Список школ
-# filename = "data-2457-count.json" # Экология
-response = requests.get(url+folder+dataset+file, params=params)
-data = json.loads(response.text)
-with open(filename, "w", encoding="utf-8", errors="ignore") as outfile:
-    json.dump(data, outfile, ensure_ascii=False, indent=2)
+for dataset in datasets:
+    count = int(requests.get(url + folder + dataset + "/count", params=params).text)
+    all_data = []
+    
+    while count > params["$skip"]:
+        response = requests.get(url + folder + dataset + "/rows", params=params)
+        data = response.json()
+        all_data.extend(data)
+        params["$skip"] += step
+    
+    params["$skip"] = 0
+    count = 0
+    
+    with open(f"data-{dataset}.json", "w", encoding="utf-8", errors="ignore") as outfile:
+        json.dump(all_data, outfile, ensure_ascii=False, separators=(',', ':'))
+    
+    with open(f"data-{dataset}.json", "rb") as f_in, gzip.open(f"data-{dataset}.json.gz", "wb") as f_out:
+        shutil.copyfileobj(f_in, f_out)
+    
+    os.remove(f"data-{dataset}.json")
+
+
+
+
+
+
+
 
